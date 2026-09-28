@@ -1,17 +1,16 @@
 {
-  "random_state": 42,
-  "best_cv_roc_auc": 0.9360858583138013,
   "best_params": {
     "classifier__max_depth": null,
     "classifier__min_samples_leaf": 1,
     "classifier__n_estimators": 400
   },
-  "test_metrics": {
-    "accuracy": 0.9079903147699758,
-    "precision": 0.946236559139785,
-    "recall": 0.5534591194968553,
-    "f1": 0.6984126984126984,
-    "roc_auc": 0.9705477449954267,
-    "pr_auc": 0.9008795692859577
+  "metrics": {
+    "accuracy": 0.9043583535108959,
+    "precision": 0.9347826086956522,
+    "recall": 0.5408805031446541,
+    "f1": 0.6852589641434262,
+    "roc_auc": 0.9685063128812953,
+    "pr_auc": 0.8919780115896141,
+    "cv_roc_auc": 0.935614016388166
   }
 }
