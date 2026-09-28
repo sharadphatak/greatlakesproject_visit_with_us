@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/tourism_project/mlruns/487772717053348686/4b5e427ea71a4743b43cc41bbb6e0bd8/artifacts
+end_time: 1790610652036
+entry_point_name: ''
+experiment_id: '487772717053348686'
+lifecycle_stage: active
+run_id: 4b5e427ea71a4743b43cc41bbb6e0bd8
+run_name: tuned-random-forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790610651457
+status: 3
+tags: []
+user_id: root
